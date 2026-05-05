@@ -1,0 +1,5 @@
+networkx==3.2.1
+pandas==2.1.4
+matplotlib==3.8.2
+jupyter==1.0.0
+notebook==7.0.6

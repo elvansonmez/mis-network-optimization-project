@@ -1,0 +1,16 @@
+source,target,travel_time_minutes,distance_km,road_type
+Main_Depot,Stage_A,12,4.2,paved
+Main_Depot,Stage_B,18,6.1,paved
+Main_Depot,Tent_Storage,8,2.7,paved
+Main_Depot,Sound_Hub,15,5.0,paved
+Tent_Storage,Stage_A,10,3.5,gravel
+Tent_Storage,Stage_C,14,4.8,gravel
+Tent_Storage,Generator_Zone,9,3.1,gravel
+Sound_Hub,Stage_A,7,2.4,paved
+Sound_Hub,Stage_B,11,3.8,paved
+Sound_Hub,Stage_C,13,4.5,paved
+Sound_Hub,Generator_Zone,6,2.0,paved
+Generator_Zone,Stage_B,16,5.5,gravel
+Generator_Zone,Stage_C,10,3.4,gravel
+Stage_A,Stage_B,20,7.0,gravel
+Stage_B,Stage_C,17,5.8,paved
